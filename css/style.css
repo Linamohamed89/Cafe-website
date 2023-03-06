@@ -1,15 +1,11 @@
-
-
-#first {
-    background-image: url(../img/coffe7.jpg);
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-    position: relative;
+body {
+    background-color: #fff8c0;
 }
 
+/*navbar*/
+
 nav {
-    background-color: #000;
+    background-color: #ffab9e;
 }
 .navbar-nav {
     margin-left: 283px;
@@ -26,12 +22,31 @@ nav {
     font-size: 24px;
     font-weight: 500;
     color: lemonchiffon;
-   
+    margin-left: 24px;
 }
 
+/*header*/
 
+#first {
+    background-image: url(../img/coffe18.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
 
+.text-box h1{
+    font-size: 190px;
+    line-height: 160px;
+    color: transparent;
+    -webkit-text-stroke: 1px #0EC8A7;
+    background: url(../img/back.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
 
+}
+/*section*/
 .img-section {
     border-radius: 50%;
     width: 400px;
@@ -46,7 +61,7 @@ h1, h1{
     font-size: 36px;
     font-weight: 700;
     text-align: center;
-    text-shadow: 2px 2px #0EC8A7;
+    
 }
 
 p {
