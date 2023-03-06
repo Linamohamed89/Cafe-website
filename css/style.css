@@ -7,3 +7,20 @@
     height: 100vh;
     position: relative;
 }
+.navbar-nav {
+    margin-left: 283px;
+}
+.navbar-brand {
+    text-decoration: overline underline;
+    white-space: nowrap;
+    font-size: 40px;
+    font-weight: 700;
+    color: lightgoldenrodyellow;
+
+}
+.nav-link {
+    font-size: 24px;
+    font-weight: 500;
+    color: lemonchiffon;
+   
+}
