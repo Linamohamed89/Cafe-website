@@ -1,27 +1,27 @@
 body {
-    background-color: #fff8c0;
+background-color: #F5DADF;
 }
 
 /*navbar*/
 
 nav {
-    background-color: #ffab9e;
+    background-color: #F5DADF;
 }
+
 .navbar-nav {
     margin-left: 283px;
 }
 .navbar-brand {
-    text-decoration: overline underline;
+    text-decoration: overline;
     white-space: nowrap;
     font-size: 40px;
     font-weight: 700;
-    color: lightgoldenrodyellow;
-
+    color: #67872f;
 }
 .nav-link {
     font-size: 24px;
     font-weight: 500;
-    color: lemonchiffon;
+    color: #67872f;
     margin-left: 24px;
 }
 
@@ -39,7 +39,7 @@ nav {
     font-size: 190px;
     line-height: 160px;
     color: transparent;
-    -webkit-text-stroke: 1px #0EC8A7;
+    -webkit-text-stroke: 1px #f38992;
     background: url(../img/back.png);
     -webkit-background-clip: text;
     background-position: 0 0;
@@ -61,7 +61,7 @@ h1, h1{
     font-size: 36px;
     font-weight: 700;
     text-align: center;
-    
+    color: #f38992;
 }
 
 p {
