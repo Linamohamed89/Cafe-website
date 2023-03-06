@@ -48,12 +48,11 @@ nav {
 }
 /*section*/
 .img-section {
-    border-radius: 50%;
     width: 400px;
     height: 400px;
     margin-top: 109px;
     margin-left: 140px;
-    filter: drop-shadow(-3px 5px 45px #0EC8A7);
+    filter: drop-shadow(-3px 5px 45px #b5ddeb);
 }
 
 h1, h1{
