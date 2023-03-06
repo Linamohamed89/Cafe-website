@@ -7,6 +7,10 @@
     height: 100vh;
     position: relative;
 }
+
+nav {
+    background-color: #000;
+}
 .navbar-nav {
     margin-left: 283px;
 }
@@ -23,4 +27,28 @@
     font-weight: 500;
     color: lemonchiffon;
    
+}
+
+
+
+
+.img-section {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin-top: 109px;
+    margin-left: 140px;
+    filter: drop-shadow(-3px 5px 45px #0EC8A7);
+}
+
+h1, h1{
+    margin-top: 180px;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 2px 2px #0EC8A7;
+}
+
+p {
+    text-align: center;
 }
