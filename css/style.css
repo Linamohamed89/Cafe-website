@@ -118,7 +118,7 @@ transform: scale(1,1);
   flex-wrap: wrap;
 }
 .card {
-  background-color: gainsboro;
+  background-color: cornsilk;
   width: 340px;
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
   border-radius: 10px;
@@ -132,11 +132,13 @@ transform: scale(1,1);
 }
 .coffe{
     width: 70px;
+    text-align: center;
+    margin-left: 105px;
 }
-.icon{
-  color: blue;
-  font-size: 8em;
-  text-align: center;
+.coffe1{
+    width: 60px;
+    text-align: center;
+    margin-left: 105px;
 }
 .info {
   text-align: center;
