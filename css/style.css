@@ -77,32 +77,17 @@ padding: 100px 200px;
   margin-left: 700px;
   margin-right: -85px;
 }
-.main-btn{
-  color: rgb(232, 236, 231);
-  background-color: darkblue;
-  text-decoration: none;
-  font-size: 1.1em;
-  font-weight: 600;
- display: inline-block;
- padding: 8px 21px;
- letter-spacing: 1px;
- border-radius: 15px;
- margin-bottom: 40px;
- transition: 1,7s ease;
-}
 
-.main-btn:hover{
-background-color: rgb(38, 0, 255);
-transform: scale(1,1);
-
-}
 .social-icons a {
   color: aliceblue;
   font-size: 1.7;
   padding-right: 30px;
+
 }
 
-
+.social-icons{
+    margin-left: 700px;
+}
 
 .content {
   display: flex;
