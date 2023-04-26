@@ -12,7 +12,7 @@
 }
 
 header{
-background-color: rgb(214, 241, 241);
+background-color: rgba(214, 241, 241,0,5);
 width: 100%;
 position: fixed;
 z-index: 999;
@@ -55,6 +55,7 @@ padding: 100px 200px;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    height: 600px;
 }
 
 .main h1{
@@ -280,3 +281,23 @@ font-size: 10px;
 
 }
   
+.img-k1{
+    width: 200px;
+}
+
+.layout_padding-bottom {
+    padding-bottom: 90px;
+}
+
+@media (min-width: 992px)
+.container {
+    max-width: 960px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
