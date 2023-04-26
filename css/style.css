@@ -842,3 +842,31 @@ a:focus {
     background-position: center;
     background-attachment: fixed;
 }
+
+.main h1{
+    display: inline-block;
+    margin-top: 10px;
+    color: crimson;
+    color: #fff;
+    font-size: 3em;
+    font-weight: 600;
+    margin-left: 700px;
+    margin-right: 70px;
+
+}
+
+.main h5{
+   color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: 700px;
+  margin-right: -85px;
+}
+.social-icons{
+    margin-left: 700px;
+    color: #fff !important;
+   
+}
