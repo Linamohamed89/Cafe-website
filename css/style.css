@@ -846,24 +846,23 @@ a:focus {
 .main h1{
     display: inline-block;
     margin-top: 10px;
-    color: crimson;
     color: #fff;
     font-size: 3em;
     font-weight: 600;
     margin-left: 700px;
-    margin-right: 70px;
+    margin-right: 500px;
 
 }
 
 .main h5{
    color: #fff;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 1px;
-  margin-top: 10px;
   margin-bottom: 30px;
   margin-left: 700px;
-  margin-right: -85px;
+  margin-right: 185px;
+  margin-top: 15px;
 }
 .social-icons{
     margin-left: 700px;
@@ -872,5 +871,5 @@ a:focus {
 }
 
 .coffe13-img{
-  height: 300px;
+  height: 350px;
 }
